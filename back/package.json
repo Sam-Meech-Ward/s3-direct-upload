@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "aws-sdk": "^2.879.0",
+    "dotenv": "^8.2.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "back",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
